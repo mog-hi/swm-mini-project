@@ -27,7 +27,7 @@ router.get('/', async (req, res, next) => {
     conversations.map((conversation) =>
       libKakaoWork.sendMessage({
         conversationId: conversation.id,
-		  "text": "무엇이 하고 싶나요?",
+		  "text": "야 너두 할 수 있어!",
 		  "blocks": [
 			{
 			  "type": "header",

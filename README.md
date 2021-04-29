@@ -42,9 +42,9 @@
 ## 개발자 '콩나물 대가리'
 |팀원|역할|
 |---|---|
-|김영현, 진유진|난이도별 단어 선택, 학습할 언어 선택창|
-|서청운, 홍민정|번역기 구현, 사용자로부터 답변 받는 창|
-|임해경, 현주희|채점 기능 구현, 틀린 문제 정답 보내주기|  
+|[김영현](https://github.com/portfolioExpert), [진유진](https://github.com/wishJinit)|난이도별 단어 선택, 학습할 언어 선택창|
+|[서청운](https://github.com/newdeal123), [홍민정](https://github.com/meanjung)|번역기 구현, 사용자로부터 답변 받는 창|
+|[임해경](https://github.com/iamhge), [현주희](https://github.com/Hyun-juhee)|채점 기능 구현, 틀린 문제 정답 보내주기|  
 
 ## 개발환경  
 |IDE|프레임워크|
